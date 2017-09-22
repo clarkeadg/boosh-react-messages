@@ -12,7 +12,7 @@ const MessagesRoutes    = require('./routes');
 
 module.exports = {
   AddMessageForm:       AddMessageForm.default,
-  Message:              Message,
+  Message:              Message.default,
   getVisibleMessages:   MessagesSelector.getVisibleMessages,
   getMessageById:       MessagesSelector.getMessageById,
   getMessagesCollection:MessagesSelector.getMessagesCollection,

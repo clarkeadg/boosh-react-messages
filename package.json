@@ -1,6 +1,6 @@
 {
   "name": "boosh-react-messages",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "node": ">=6",
     "npm": ">=3.8"
